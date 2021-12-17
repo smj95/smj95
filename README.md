@@ -1,5 +1,7 @@
-### Hi there 👋 </b>I'm IOS Developer MINJAE 🥰 <&nbsp>
+### Hi there 👋 </b>I'm IOS Developer MINJAE 🥰 
 ### 
+<a href="https://www.notion.so/4c707791a71a483f9137d15fd17ff32e"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=내링크"/></a>&nbsp
+
 ### 🛠 TECH STACK!!
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a></b>
 <img src="https://img.shields.io/badge/Ios-000000?style=flat-square&logo=ios&logoColor=white"/></a> 
