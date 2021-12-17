@@ -1,4 +1,4 @@
-### Hi there 👋 \n I'm IOS Developer MINJAE 🥰
+### Hi there 👋 I'm IOS Developer MINJAE 🥰
 
 
 
