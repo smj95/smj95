@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm IOS Developer MINJAE 🥰
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Ios-000000?style=flat-square&logo=ios&logoColor=white"/></a> 
 
 
 
